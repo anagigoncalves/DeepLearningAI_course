@@ -13,4 +13,4 @@ Only selected exercises are posted here and my solutions to the problems.
 8. [U-Net](https://github.com/anagigoncalves/DeepLearningAI_course/blob/main/unet.py)
 9. [YOLO](https://github.com/anagigoncalves/DeepLearningAI_course/blob/main/yolo.py)
 10. [Face recognition models](https://github.com/anagigoncalves/DeepLearningAI_course/blob/main/face_recognition.py)
-11. [Neural style transfer models](https://github.com/anagigoncalves/DeepLearningAI_course/blob/main/neural_style_transfer.py)[
+11. [Neural style transfer models](https://github.com/anagigoncalves/DeepLearningAI_course/blob/main/neural_style_transfer.py)
